@@ -96,7 +96,7 @@ REST Client: https://github.com/fatmaa-spec/REST-Client-NoesantaraERP
 
 
 
-REST Server: \[Tambahkan link repository REST Server di sini]
+REST Server: https://github.com/fatmaa-spec/REST-Server-NoesantaraERP
 
 
 
