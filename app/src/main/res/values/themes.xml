@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.NeosantaraERP"
+        parent="Theme.Material3.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/pink_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:colorAccent">@color/pink_primary</item>
+        <item name="android:statusBarColor">@color/pink_dark</item>
+        <item name="android:navigationBarColor">@color/pink_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/pink_background</item>
+
+    </style>
+
+    <style name="Theme.NeosantaraERP"
+        parent="Base.Theme.NeosantaraERP" />
+
+</resources>

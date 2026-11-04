@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#332631</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="pink_primary">#D982AD</color>
+    <color name="pink_dark">#B85F91</color>
+    <color name="pink_light">#FCEAF3</color>
+    <color name="pink_background">#FFF7FB</color>
+    <color name="pink_card">#FFFFFF</color>
+
+    <color name="text_primary">#392D36</color>
+    <color name="text_secondary">#8A7783</color>
+
+    <color name="success">#4CAF80</color>
+    <color name="warning">#E9A34B</color>
+    <color name="danger">#E36C80</color>
+</resources>
